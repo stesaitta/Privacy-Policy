@@ -1,4 +1,4 @@
-# Privacy Policy – Tap2Motivation
+# Privacy Policy
 
 App gratuita sviluppata da Stefano Saitta.
 
